@@ -26,10 +26,10 @@ Chatgpt를 연동해서 사용자 질의 응답을 처리하고, 사용자가 �
 - Prompt 적용 : 반려동물 전문가 
 - 기타 질의 응답 처리
 - Small Talk
-#### 동물병원 검색 - <a href="" >상세보기</a>
+#### 동물병원 검색 - <a href="https://github.com/ressa009/Withmerry/wiki/%EB%B3%91%EC%9B%90-%EA%B2%80%EC%83%89---%ED%9B%84%EA%B8%B0-%ED%81%AC%EB%A1%A4%EB%A7%81-%EC%83%81%EC%84%B8" >상세보기</a>
 - 카카오맵 API
 - 키워드 검색
-#### 방문후기 - <a href="" >상세보기</a>
+#### 방문후기 - <a href="https://github.com/ressa009/Withmerry/wiki/%EB%B3%91%EC%9B%90-%EA%B2%80%EC%83%89---%ED%9B%84%EA%B8%B0-%ED%81%AC%EB%A1%A4%EB%A7%81-%EC%83%81%EC%84%B8" >상세보기</a>
 - 카카오 장소 후기 크롤링
 #### 진료예약 - <a href="" >상세보기</a>
 - 진료 신청서 입력
