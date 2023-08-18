@@ -18,7 +18,7 @@ Chatgpt를 연동해서 사용자 질의 응답을 처리하고, 사용자가 �
 - **Framework** : Quart(0.18.4)
 - **Database** : Redis (3.0.504)
 
-<br>
+<br><br>
 
 ## 📌 주요 기능
 #### 질문하기 - <a href="https://github.com/ressa009/Withmerry/wiki/%EC%A7%88%EB%AC%B8%ED%95%98%EA%B8%B0-%EC%83%81%EC%84%B8" >상세보기</a>
