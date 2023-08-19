@@ -35,9 +35,11 @@ Chatgpt를 연동해서 사용자 질의 응답을 처리하고, 사용자가 �
 - 진료 신청서 입력
 - 진료 신청 내용 메일 전송
 
+<br>
+
 ## 🎬 기능 화면
 ![메뉴](https://github.com/ressa009/Withmerry/assets/47082555/dea1fbe6-1768-43db-9fac-5b6b280636a5)
-![질문하기](https://github.com/ressa009/Withmerry/assets/47082555/002a991e-c08a-4400-9360-4a64f0a25a90)
+![질문하기](https://github.com/ressa009/Withmerry/assets/47082555/002a991e-c08a-4400-9360-4a64f0a25a90)<br>
 ![병원검색+방문후기](https://github.com/ressa009/Withmerry/assets/47082555/0d31c317-640d-4cd8-81d5-70ae18daf8da)
 ![진료예약](https://github.com/ressa009/Withmerry/assets/47082555/8fbaded4-ffdc-4d81-bc97-8dd23d6c652b)
 
