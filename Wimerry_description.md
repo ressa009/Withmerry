@@ -4,7 +4,7 @@ Python + ChatGPT + Kakaomap API + Selenium
 
 
 ## 🖥️ 프로젝트 소개
-Chatgpt를 연동해서 사용자 질의 응답을 처리하고, 사용자가 입력한 위치 기반으로 근처 병원 정보를 제공하고 진료 신청서를 메일로 전송하는 서비스를 제공하는 AI 챗봇 서비스 입니다.
+Chatgpt를 연동해서 사용자 질의 응답을 처리하고, 사용자가 입력한 위치 기반으로 근처 동물 병원 정보를 제공합니다. 카카오 장소 후기를 크롤링해서 방문 후기를 공유하고, 진료 신청서를 메일로 전송하는 서비스를 제공하는 AI 챗봇 Withmerry 입니다.
 <br><br>
 
 ### 🕰️ 개발 기간
@@ -34,5 +34,12 @@ Chatgpt를 연동해서 사용자 질의 응답을 처리하고, 사용자가 �
 #### 진료예약 - <a href="https://github.com/ressa009/Withmerry/wiki/%EC%A7%84%EB%A3%8C%EC%98%88%EC%95%BD-%EC%83%81%EC%84%B8" >상세보기</a>
 - 진료 신청서 입력
 - 진료 신청 내용 메일 전송
+
+
+|----|----|----|----|
+|![메뉴](https://github.com/ressa009/Withmerry/assets/47082555/dea1fbe6-1768-43db-9fac-5b6b280636a5)
+|![질문하기](https://github.com/ressa009/Withmerry/assets/47082555/002a991e-c08a-4400-9360-4a64f0a25a90)|![병원검색+방문후기](https://github.com/ressa009/Withmerry/assets/47082555/0d31c317-640d-4cd8-81d5-70ae18daf8da)|![진료예약](https://github.com/ressa009/Withmerry/assets/47082555/8fbaded4-ffdc-4d81-bc97-8dd23d6c652b)|
+
+
 
 
